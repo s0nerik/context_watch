@@ -47,7 +47,7 @@ packages:
       path: "../context_watch_base"
       relative: true
     source: path
-    version: "1.0.0-dev.1"
+    version: "2.0.0-dev.5"
   fake_async:
     dependency: transitive
     description:
