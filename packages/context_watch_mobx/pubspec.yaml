@@ -1,7 +1,8 @@
 name: context_watch_mobx
 description: "context_watch adapter for mobx package"
 version: 1.0.0-dev.2
-homepage:
+homepage: https://github.com/s0nerik/context_watch
+repository: https://github.com/s0nerik/context_watch
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
